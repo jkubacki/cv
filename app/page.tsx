@@ -38,8 +38,8 @@ export default function Home() {
         <div className="flex items-center gap-1">
           Check out my demo app at
           <div className="underline">
-            <a href="https://jobs.jakubkubacki.com" target="_blank">
-              https://jobs.jakubkubacki.com
+            <a href="https://demo.jakubkubacki.com" target="_blank">
+              https://demo.jakubkubacki.com
             </a>
           </div>
           <a href="https://github.com/jkubacki/jobs-app" target="_blank"><GitHubIcon className="w-4 h-4 mx-1" /></a>
