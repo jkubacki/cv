@@ -8,10 +8,9 @@ export const DATABASES_SKILLS: ISkill = {
     { name: 'SQL' },
     { name: 'MySQL' },
     { name: 'PostgreSQL' },
-    { name: 'Database Design' },
-    { name: 'Database Migrations' },
     { name: 'Redis' },
     { name: 'MongoDB' },
     { name: 'Elasticsearch' },
+    { name: 'Database Design' },
   ]
 }
