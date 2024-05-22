@@ -13,7 +13,7 @@ import { GitHubIcon } from '@/components/icons/GitHubIcon';
 
 export default function Home() {
   return (
-    <main className="container flex flex-col items-center gap-10 print:gap-6 px-6 py-16 print:py-0 md:p-24 max-w-5xl">
+    <main className="container flex flex-col items-center gap-10 print:gap-4 px-6 py-16 print:py-0 md:p-24 max-w-5xl">
       <Intro />
       <Contact />
       <CoreSkills />
