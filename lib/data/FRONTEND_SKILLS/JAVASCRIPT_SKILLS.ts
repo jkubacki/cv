@@ -8,12 +8,8 @@ export const JAVASCRIPT_SKILLS: ISkill = {
     { name: 'Node.js' },
     { name: 'Express.js' },
     { name: 'Nest.js' },
-    { name: 'Jest' },
-    { name: 'Mocha' },
+    { name: 'Testing' },
     { name: 'Webpack' },
-    { name: 'Babel' },
-    { name: 'Gulp' },
-    { name: 'ESLint' },
-    { name: 'Prettier' },
+    { name: 'ESLint & Prettier' },
   ]
 }

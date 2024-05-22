@@ -7,7 +7,7 @@ export const ROLES: IRole[] = [
     location: 'Glendale, CA / Remote',
     startDate: 'Mar 2019',
     endDate: 'Present',
-    description: 'As the VP of Technology, I assumed responsibility for all technical aspects of the company, including the development of new products, maintenance of existing products, and management of the infrastructure.',
+    description: 'As the VP of Technology, I assumed responsibility for all technical aspects of the company, including the development of new products, maintenance of existing ones, and management of the infrastructure.',
     achievements: [
       [
         'Improved reliability:',
@@ -32,7 +32,7 @@ export const ROLES: IRole[] = [
         'Developed AI powered products for the radio industry:',
         'Implemented similarity audio search',
         'Developed AI powered voice generation application for radio imaging',
-        'Trained AI audio classification model for genres and keywords.',
+        'Trained AI audio classification model for music genres.',
       ],
       [
         'Created a frontend application for the company\'s flagship product.',
@@ -46,7 +46,7 @@ export const ROLES: IRole[] = [
         'Upgraded a Rails 4 application to the latest Rails 7 version.',
         'Updated dependencies that were outdated for several years.',
         'Eliminated unused features and their dependencies.',
-        'Refactored legacy code to enhance maintainability and testability.',
+        'Gradually refactored legacy code to enhance maintainability and testability.',
         'Significantly increased test coverage by writing meaningful unit and integration tests.',
         'Implemented a search engine for audio files, users, logs, and other resources using Elasticsearch.',
       ],
@@ -54,7 +54,7 @@ export const ROLES: IRole[] = [
         'Automated administrative tasks:',
         'Automated billing and invoicing using the Stripe API.',
         'Automated audio management tasks, including audio processing, signal splitting, and metadata extraction.',
-        'Utilized AI for generating descriptions for audio files.',
+        'Utilized AI powered tools for generating descriptions for audio files.',
         'Implemented data exporting tools for analytics and reporting purposes.',
       ]
     ]
@@ -76,7 +76,6 @@ export const ROLES: IRole[] = [
       ['Coordinated the recruitment process in a department of 90 developers, automating manual steps, unifying requirements and feedback processes, introducing recruitment tasks, and conducting interviews for junior, regular, and senior positions.'],
       ['Spoke at company meetups, organized internal hackathons, and coached attendees in Ruby on Rails workshops.'],
       ['Consulted with clients during scoping sessions, project workshops, and technical project reviews.'],
-      ['Administered Kubernetes clusters']
     ]
   },
   {

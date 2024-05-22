@@ -13,9 +13,8 @@ export const DEVOPS_OTHER_SKILLS: ISkill = {
     { name: 'Capistrano' },
     { name: 'PM2' },
     { name: 'Monitoring' },
-    { name: 'Backups' },
     { name: 'Cronjobs' },
-    { name: 'Firewall rules' },
+    { name: 'Firewalls' },
   ]
 }
 

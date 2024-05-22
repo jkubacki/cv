@@ -19,6 +19,5 @@ export const BACKEND_OTHER_SKILLS: ISkill = {
     { name: 'Git'},
     { name: 'Audio processing' },
     { name: 'PDF generation' },
-    { name: 'Stimulus & Turbo'},
   ]
 }
