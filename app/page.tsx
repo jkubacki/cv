@@ -35,7 +35,7 @@ export default function Home() {
         <div className="flex items-center gap-1">
           Hosted on Amazon EKS
         </div>
-        <div className="flex items-center gap-1">
+        <div className="flex flex-col items-center gap-1 lg:flex-row">
           Check out my demo app at
           <div className="underline">
             <a href="https://demo.jakubkubacki.com" target="_blank">
