@@ -3,7 +3,7 @@ import { ISkill } from '@/lib/types/ISkill';
 export const AWS_SKILLS: ISkill = {
   name: 'AWS',
   since: 2016,
-  description: "Demo app in my GitHub profile is hosted on AWS",
+  description: "I've hosted websites and Kuberentes clusters using AWS",
   subSkills: [
     { name: 'S3' },
     { name: 'EKS' },
