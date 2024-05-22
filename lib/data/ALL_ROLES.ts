@@ -61,7 +61,7 @@ export const ROLES: IRole[] = [
   },
   {
     title: 'Technical Team Leader',
-    company: 'Netguru - a software house',
+    company: 'Netguru - Ruby on Rails focused software house',
     location: 'Remote',
     startDate: 'Sept 2017',
     endDate: 'Mar 2019',
@@ -80,7 +80,7 @@ export const ROLES: IRole[] = [
   },
   {
     title: 'Senior Ruby on Rails Developer',
-    company: 'Netguru - software house',
+    company: 'Netguru - Ruby on Rails focused software house',
     location: 'Remote',
     startDate: 'Jan 2015',
     endDate: 'Sept 2017',
