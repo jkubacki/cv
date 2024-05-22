@@ -30,7 +30,7 @@ export default function Home() {
       <footer className="text-center text-sm mb-3 print:hidden flex flex-col gap-3 items-center">
         <div className="flex items-center gap-1">
           Made with ❤️ using TypeScript, React, Next.js, Tailwind CSS and shadcn/ui
-          <a href="https://github.com/jkubacki/cv" target="_blank"><GitHubIcon className="w-4 h-4" /></a>
+          <a href="https://github.com/jkubacki/cv" target="_blank"><GitHubIcon className="w-4 h-4 mx-1" /></a>
         </div>
         <div className="flex items-center gap-1">
           Hosted on Amazon EKS
@@ -42,7 +42,7 @@ export default function Home() {
               https://jobs.jakubkubacki.com
             </a>
           </div>
-          <a href="https://github.com/jkubacki/jobs-app" target="_blank"><GitHubIcon className="w-4 h-4" /></a>
+          <a href="https://github.com/jkubacki/jobs-app" target="_blank"><GitHubIcon className="w-4 h-4 mx-1" /></a>
         </div>
       </footer>
     </main>
