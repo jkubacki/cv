@@ -6,10 +6,6 @@ export const API_SKILLS: ISkill = {
   description: "Since 2015, I have been developing APIs. I've built multiple applications using Ruby on Rails as well as other frameworks.",
   subSkills: [
     { name: 'REST API' },
-    { name: 'JSON API' },
-    { name: 'Rails API' },
-    { name: 'Grape' },
-    { name: 'OAuth 2.0' },
-    { name: 'Doorkeeper' },
+    { name: 'GraphQL' },
   ]
 }
