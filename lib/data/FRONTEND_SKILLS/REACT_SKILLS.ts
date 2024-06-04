@@ -9,13 +9,7 @@ export const REACT_SKILLS: ISkill = {
     { name: 'Playwright' },
     { name: 'Storybook' },
     { name: 'Redux' },
-    { name: 'Redux Saga' },
     { name: 'Tailwind CSS' },
     { name: 'React Query' },
-    { name: 'React Router' },
-    { name: 'shadcn/ui' },
-    { name: 'React Hook Form' },
-    { name: 'React Native' },
-    { name: 'Styled Components' },
   ]
 }

@@ -6,8 +6,5 @@ export const FRONTEND_OTHER_SKILLS: ISkill = {
   subSkills: [
     { name: 'Stimulus & Turbo'},
     { name: 'React Native' },
-    { name: 'WebSocket' },
-    { name: 'Bootstrap' },
-    { name: 'jQuery' },
   ]
 }
