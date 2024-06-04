@@ -7,6 +7,5 @@ export const API_INTEGRATION_SKILLS: ISkill = {
   subSkills: [
     { name: 'REST' },
     { name: 'GraphQL' },
-    { name: 'SOAP' },
   ]
 }
