@@ -21,12 +21,8 @@ export const ROLES: IRole[] = [
       [
         'Improved security:',
         'Implemented static code analyzers and automated dependency checks.',
-        'Ensured no credentials are stored in the codebase.',
         'Ensured complete separation between environments.',
-        'Migrated the custom authentication system to Keycloak SSO and enhanced the password hashing algorithm.',
-        'Enforced 2FA across the company.',
-        'Enforced secure password management.',
-        'Implemented proper IAM roles and permissions enforcement.',
+        'Migrated the custom authentication system to Keycloak SSO.',
       ],
       [
         'Developed AI powered products for the radio industry:',
@@ -50,13 +46,6 @@ export const ROLES: IRole[] = [
         'Significantly increased test coverage by writing meaningful unit and integration tests.',
         'Implemented a search engine for audio files, users, logs, and other resources using Elasticsearch.',
       ],
-      [ 
-        'Automated administrative tasks:',
-        'Automated billing and invoicing using the Stripe API.',
-        'Automated audio management tasks, including audio processing, signal splitting, and metadata extraction.',
-        'Utilized AI powered tools for generating descriptions for audio files.',
-        'Implemented data exporting tools for analytics and reporting purposes.',
-      ]
     ]
   },
   {
@@ -96,7 +85,7 @@ export const ROLES: IRole[] = [
     location: 'Remote',
     startDate: 'Dec 2013',
     endDate: 'Jan 2015',
-    description: 'Built e-commerce CRM software managing sales via api integrations (SOAP, REST, OAUTH).',
+    description: 'Built e-commerce ERP software managing sales via api integrations (SOAP, REST, OAUTH).',
     achievements: [
     ]
   },
@@ -106,15 +95,8 @@ export const ROLES: IRole[] = [
     location: 'Remote',
     startDate: 'Sep 2010',
     endDate: 'Dec 2013',
-    description: 'Developed and maintained e-commerce software.',
+    description: 'Developed and maintained ERP e-commerce software.',
     achievements: [
-      ['Maintained an e-commerce store.'],
-      ['Integrated products with online auction services and e-stores.'],
-      ['Built an invoicing system.'],
-      ['Developed software for managing Points of Sales.'],
-      ['Created a warehouse management web application.'],
-      ['Developed an admin panel for bulk product editing.'],
-      ['Configured and administered VPS servers.'],
     ]
   },
 ]
