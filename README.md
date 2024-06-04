@@ -1,4 +1,4 @@
-## My CV
+## My Resume
 
 `next.js, typescript, react, shadcn/ui, tailwind css`
 

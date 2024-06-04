@@ -6,7 +6,7 @@ import { Download } from 'lucide-react'
 export default function DownloadPDFButton(){
   
   function handleClick() {
-    window.open('Jakub Kubacki CV.pdf', '_blank')
+    window.open('Jakub Kubacki - Resume.pdf', '_blank')
   }
 
   return (

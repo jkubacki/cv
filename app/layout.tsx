@@ -7,8 +7,8 @@ import DownloadPDFButton from '@/components/DownlaodPDFButton';
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Jakub Kubacki CV",
-  description: "Curriculum vitae of Jakub Kubacki",
+  title: "Jakub Kubacki - Resume",
+  description: "Resume of Jakub Kubacki",
 };
 
 export default function RootLayout({
