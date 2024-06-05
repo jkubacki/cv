@@ -35,9 +35,6 @@ export default function Home() {
           Made with ❤️ using TypeScript, React, Next.js, Tailwind CSS and shadcn/ui
           <a href="https://github.com/jkubacki/cv" target="_blank"><GitHubIcon className="w-4 h-4 mx-1" /></a>
         </div>
-        <div className="flex items-center gap-1">
-          Hosted on Amazon EKS
-        </div>
         <div className="flex flex-col items-center gap-1 lg:flex-row">
           Check out my demo app at
           <div className="underline">

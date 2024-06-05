@@ -3,6 +3,8 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import PrintButton from '@/components/PrintButton';
 import DownloadPDFButton from '@/components/DownlaodPDFButton';
+import { Analytics } from "@vercel/analytics/react";
+
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -20,6 +22,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         {children}
+        <Analytics />
         <div className="print:hidden absolute top-1 left-1">
         </div>
         <div className="absolute top-1 right-1 flex gap-2">
