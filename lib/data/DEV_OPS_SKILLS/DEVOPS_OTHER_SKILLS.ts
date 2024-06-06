@@ -8,6 +8,7 @@ export const DEVOPS_OTHER_SKILLS: ISkill = {
     { name: 'CI' },
     { name: 'CDN' },
     { name: 'Observability' },
+    { name: 'Distributed systems' },
   ]
 }
 
