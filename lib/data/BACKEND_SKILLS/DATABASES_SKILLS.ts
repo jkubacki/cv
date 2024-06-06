@@ -5,7 +5,9 @@ export const DATABASES_SKILLS: ISkill = {
   since: 2010,
   description: 'I have worked with many different kinds of databases. Most Ruby on Rails performance issues stem from inefficient database queries. I have extensive experience in identifying and optimizing these issues.',
   subSkills: [
-    { name: 'RDBs' },
+    { name: 'PostgreSQL' },
+    { name: 'MySQL' },
+    { name: 'Redis' },
     { name: 'NoSQL' },
   ]
 }
