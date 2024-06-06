@@ -23,7 +23,7 @@ export default function Home() {
       <Education />
       <Languages />
       <Interests />
-      <div className="print:mt-10">
+      <div className="print:mt-8">
         <Contact />
       </div>
       <div className="flex gap-2">
