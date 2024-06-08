@@ -7,6 +7,7 @@ export const BACKEND_OTHER_SKILLS: ISkill = {
     { name: 'Node.js' },
     { name: 'Python' },
     { name: 'Elixir' },
+    { name: 'Rust' },
     { name: 'Shell' },
     { name: 'Search engines - ElasticSearch, Solr'},
     { name: 'Git'},
