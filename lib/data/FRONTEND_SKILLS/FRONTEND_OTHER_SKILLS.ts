@@ -4,7 +4,7 @@ export const FRONTEND_OTHER_SKILLS: ISkill = {
   name: 'Other',
   description: '',
   subSkills: [
-    { name: 'Stimulus & Turbo'},
+    { name: 'Hotwire & Stimulus'},
     { name: 'React Native' },
     { name: 'TailwindCSS' },
   ]
