@@ -10,5 +10,6 @@ export const AWS_SKILLS: ISkill = {
     { name: 'EC2' },
     { name: 'RDS' },
     { name: 'Lambda' },
+    { name: 'Cloudflare' },
   ]
 }
