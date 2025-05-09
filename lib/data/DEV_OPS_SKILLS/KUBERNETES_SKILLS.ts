@@ -8,5 +8,6 @@ export const KUBERNETES_SKILLS: ISkill = {
     { name: 'GitOPS - ArgoCD' },
     { name: 'Kustomize' },
     { name: 'Helm' },
+    { name: 'Docker' },
   ]
 }

@@ -5,7 +5,7 @@ export const NEXT_SKILLS: ISkill = {
   since: 2022,
   description: 'I created a complex frontend application using Next.js and Typescript. Next.js is my go to framework for frontend applications.',
   subSkills: [
-    { name: 'NextAuth' },
+    { name: 'NextAuth.js' },
     { name: 'Vercel' },
   ]
 }

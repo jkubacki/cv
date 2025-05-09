@@ -8,5 +8,6 @@ export const MANAGEMENT_SKILLS: ISkill = {
     { name: 'Mentorship' },
     { name: 'Performance reviews' },
     { name: 'Conflict resolution' },
+    { name: 'Project Management' },
   ]
 }

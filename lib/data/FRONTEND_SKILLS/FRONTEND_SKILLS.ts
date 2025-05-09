@@ -12,7 +12,6 @@ export const FRONTEND_SKILLS: ISkill = {
   description: 'I have been working with React since 2018. Created multiple applications and websites.',
   subSkills: [
     REACT_SKILLS,
-    TYPESCRIPT_SKILLS,
     JAVASCRIPT_SKILLS,
     NEXT_SKILLS,
     FRONTEND_OTHER_SKILLS,

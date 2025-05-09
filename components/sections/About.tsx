@@ -11,7 +11,7 @@ export default function About() {
       <h2 className="text-2xl font-bold print:hidden">About me</h2>
       <div className="flex flex-col items-center gap-4">
         <p className="text-md">
-          I am a hands-on leader with a passion for crafting high-quality, maintainable, and scalable software using the best tools and practices. I thrive in remote, collaborative team environments and have successfully led multiple projects. I take full ownership of products, ensuring their success from start to finish, while actively participating and supporting my team.
+        Results-driven technical leader with a strong track record of solving complex problems and delivering high-impact software products. I take full ownership of initiatives - from concept to launch - ensuring they meet both technical excellence and business goals. Known for building maintainable, scalable systems using best-in-class tools and practices, I lead by example and thrive in remote, collaborative environments where delivering real value is the priority.
         </p>
       </div>
     </section>

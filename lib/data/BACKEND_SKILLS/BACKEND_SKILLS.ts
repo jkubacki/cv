@@ -9,7 +9,7 @@ export const BACKEND_SKILLS: ISkill = {
   name: 'Backend',
   since: 2010,
   level: 100,
-  description: 'Backend development is my primary area of expertise, and I have created multiple applications, APIs, and integrations.',
+  description: 'Backend development is my primary area of technical expertise, and I have created multiple applications, APIs, and integrations.',
   subSkills: [
     RUBY_ON_RAILS_SKILLS,
     API_SKILLS,

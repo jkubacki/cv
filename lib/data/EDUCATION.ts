@@ -1,5 +1,5 @@
 export const EDUCATION = {
-  institution: 'University of Adam Mickiewicz, Poznań, Poland',
+  institution: 'Adam Mickiewicz University, Poznań, Poland',
   degree: 'Computer Science',
   since: '2010',
   until: '2012',

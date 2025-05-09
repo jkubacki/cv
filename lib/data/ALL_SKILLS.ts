@@ -5,8 +5,8 @@ import { ISkill } from '@/lib/types/ISkill';
 import { LEADERSHIP_SKILLS } from '@/lib/data/LEADERSHIP_SKILLS/LEADERSHIP_SKILLS';
 
 export const SKILLS: ISkill[] = [
-  BACKEND_SKILLS,
   LEADERSHIP_SKILLS,
+  BACKEND_SKILLS,
   DEVOPS_SKILLS,
   FRONTEND_SKILLS
 ]
