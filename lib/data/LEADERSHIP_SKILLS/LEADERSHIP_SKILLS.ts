@@ -6,7 +6,7 @@ import { ISkill } from '@/lib/types/ISkill'
 export const LEADERSHIP_SKILLS: ISkill = {  
   name: 'Leadership',
   since: 2016,
-  level: 85,
+  level: 100,
   description: 'I have been in leadership roles for several years, overseeing multiple projects and teams.',
   subSkills: [
     TECH_LEAD_SKILLS,
