@@ -74,7 +74,9 @@ export const ROLES: IRole[] = [
         'Developed AI-powered products:',
         'Implemented a similarity audio search.',
         'Developed an AI-powered voice generation application for radio imaging.',
-        'Trained an AI audio classification model for music genres.',
+        'Trained an AI audio classification model for music genres.'
+        ],
+        [
         'Maintained and modernized a legacy 13-year-old Ruby on Rails application.',
         'Optimized performance by introducing caching, background jobs, and database optimizations.',
         'Upgraded a Rails 4 application to Rails 7.',
